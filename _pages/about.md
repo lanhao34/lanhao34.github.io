@@ -8,7 +8,7 @@ profile:
   align: right
   image: haolan-thu.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
+  # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
@@ -32,5 +32,3 @@ I received my Ph.D. degree at the Department of Electrical & Computer Engineerin
 
 ## Research Interests
 Distributed Machine Learning, Deep Reinforcement Learning, Graph Neural Network, Federated Learning, Privacy Preserving, Data Center Network, Load Balancing, Congestion Control.
-<!-- 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
