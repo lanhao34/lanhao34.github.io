@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 'hao.lan@mail.utoronto.ca | +1 (437) 970-8885'
+subtitle: 'hao.lan@mail.utoronto.ca | +1 (437) 970-8885 | <a href="assets/pdf/cv-haolan.pdf">Download CV</a>'
 
 profile:
   align: right
