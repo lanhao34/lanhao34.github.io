@@ -11,9 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Postdoc.
+      institution: Tsinghua University, Beijing, China
+      year: 2023 - Present
+      description:
+        - Department of Computer Science & Technology
+        - "Superviser: Jiwu Shu"
+    - title: Ph.D.
       institution: University of Toronto, Toronto, Canada
-      year: 2018 - present
+      year: 2018 - 2023
       description:
         - Department of Electrical & Computer Engineering
         - "Superviser: Baochun Li"
