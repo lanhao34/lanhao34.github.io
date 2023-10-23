@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 'hao.lan@mail.utoronto.ca | +1 (437) 970-8885 | <a href="assets/pdf/cv-haolan.pdf">Download CV</a>'
+subtitle: 'hao.lan@mail.utoronto.ca | +86 18960945526 | <a href="assets/pdf/cv-haolan.pdf">Download CV</a>'
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true  # includes social icons at the bottom of the page
 ---
 ## About Me
-I'm a 5th-year Ph.D. student at the Department of ECE, University of Toronto, supervised by Prof. Baochun Li. I received both my B.E. and M.E. degree from the School of Communication, Xidian University in 2015 and 2018, respectively. Now I'm looking for the post-doc position related to my research interests.
+I received my Ph.D. degree at the Department of Electrical & Computer Engineering, University of Toronto, supervised by Prof. Baochun Li. I finished both my B.E. and M.E. degree at the School of Communication, Xidian University in 2015 and 2018, respectively. Now I'm a postdoctoral researcher at the Department of Computer Science and Technology, Tsinghua University, supervised by Prof. Jiwu Shu. 
 
 ## Research Interests
-Distributed Machine Learning, Deep Reinforcement Learning, Graph Neural Network, Federated Learning, Privacy Preserving, Data Center Network
+Distributed Machine Learning, Deep Reinforcement Learning, Graph Neural Network, Federated Learning, Privacy Preserving, Data Center Network, Load Balancing, Congestion Control.
