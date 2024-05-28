@@ -130,11 +130,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-
 # blog_name: al-folio # blog_name will be displayed in your blog page
 # blog_description: a simple whitespace theme for academics
 # permalink: /blog/:year/:title/
-# lsi: true # produce an index for related posts
+# lsi: false # produce an index for related posts
 
 # # Pagination
 # pagination:
@@ -169,6 +168,10 @@ related_blog_posts:
 # external_sources:
 #   - name: medium.com
 #     rss_url: https://medium.com/@al-folio/feed
+#   - name: Google Blog
+#     posts:
+#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Collections
