@@ -2,6 +2,8 @@ github_users:
   - lanhao34
   - haolanut
 
+repo_description_lines_max: 2
+
 github_repos:
   - lanhao34/yixun
   - WanyuGroup/CVPR2022-OrphicX
