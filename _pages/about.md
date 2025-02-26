@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: 'hao.lan@mail.utoronto.ca | +86 18960945526 | <a href="assets/pdf/cv-haolan.pdf">Download CV</a>'
+subtitle: 'lanhao@tsinghua.edu.cn | +86 18960945526 | <a href="assets/pdf/cv-haolan.pdf">Download CV</a>'
 
 profile:
   align: right
-  image: haolan-suit.jpg
+  image: haolan-thu.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
