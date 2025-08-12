@@ -80,25 +80,13 @@
       "name": "Computer Science",
       "level": "Expert",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Distributed Systems",
-        "Computer Networks",
-        "System Design",
-        "Performance Optimization",
-        "Machine Learning"
-      ]
+      "keywords": ["Distributed Systems", "Computer Networks", "System Design", "Performance Optimization", "Machine Learning"]
     },
     {
       "name": "Programming",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C++",
-        "Java",
-        "JavaScript",
-        "Go"
-      ]
+      "keywords": ["Python", "C++", "Java", "JavaScript", "Go"]
     }
   ],
   "languages": [
@@ -122,13 +110,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Distributed Systems",
-        "Computer Networks",
-        "System Optimization",
-        "Machine Learning",
-        "Graph Neural Networks"
-      ]
+      "keywords": ["Distributed Systems", "Computer Networks", "System Optimization", "Machine Learning", "Graph Neural Networks"]
     }
   ],
   "references": [],

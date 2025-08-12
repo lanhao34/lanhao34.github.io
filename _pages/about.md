@@ -27,9 +27,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
+
 ## About Me
- 
-I received my Ph.D. degree at the Department of Electrical & Computer Engineering, University of Toronto, supervised by Prof. Baochun Li. I finished both my B.E. and M.E. degree at the School of Communication, Xidian University in 2015 and 2018, respectively. Now I'm a postdoctoral researcher at the Department of Computer Science and Technology, Tsinghua University, supervised by Prof. Jiwu Shu. 
+
+I received my Ph.D. degree at the Department of Electrical & Computer Engineering, University of Toronto, supervised by Prof. Baochun Li. I finished both my B.E. and M.E. degree at the School of Communication, Xidian University in 2015 and 2018, respectively. Now I'm a postdoctoral researcher at the Department of Computer Science and Technology, Tsinghua University, supervised by Prof. Jiwu Shu.
 
 ## Research Interests
 

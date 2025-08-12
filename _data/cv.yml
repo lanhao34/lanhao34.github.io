@@ -41,4 +41,3 @@
     - title: <a href="https://github.com/WanyuGroup/CVPR2022-OrphicX">OrphicX</a>
       year: 2015-now
       description: 'Source code of paper <a href="https://arxiv.org/pdf/2203.15209.pdf">"OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks"</a>, publised in CVPR 2022.'
-
