@@ -1,3 +1,67 @@
 metadata:
-  last_updated: '1970-01-01'
-papers: {}
+  last_updated: '2026-05-25'
+papers:
+  q7pfeB8AAAAJ:0EnyYjriUFMC:
+    citations: 1
+    title: 'Cost-efficient Archive Cloud Storage with Tape: Design and Deployment'
+    year: '2026'
+  q7pfeB8AAAAJ:IjCSPb-OGe4C:
+    citations: 2
+    title: 'Rss: a relay-based schedule scheme for optical data center network'
+    year: '2020'
+  q7pfeB8AAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Pipeline Parallelism Optimization with Deep Reinforcement Learning
+    year: Unknown Year
+  q7pfeB8AAAAJ:Se3iqnhoufwC:
+    citations: 6
+    title: 'Graph privacy funnel: A variational approach for privacy-preserving representation learning on graphs'
+    year: '2024'
+  q7pfeB8AAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: 'OROF: A hybrid topology with high scalability for data center networks'
+    year: '2015'
+  q7pfeB8AAAAJ:UeHWp8X0CEIC:
+    citations: 14
+    title: 'Thor: a scalable hybrid switching architecture for data centers'
+    year: '2018'
+  q7pfeB8AAAAJ:UebtZRa9Y70C:
+    citations: 4
+    title: Debiasing graph representation learning based on information bottleneck
+    year: '2024'
+  q7pfeB8AAAAJ:W7OEmFMy1HYC:
+    citations: 114
+    title: 'Orphicx: A causality-inspired latent variable model for interpreting graph neural networks'
+    year: '2022'
+  q7pfeB8AAAAJ:WF5omc3nYNoC:
+    citations: 20
+    title: Accelerated device placement optimization with contrastive learning
+    year: '2021'
+  q7pfeB8AAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Interpreting Graph Neural Networks via Unrevealed Causal Learning
+    year: Unknown Year
+  q7pfeB8AAAAJ:YsMSGLbcyi4C:
+    citations: 7
+    title: 'Eagle: Expedited device placement with automatic grouping for large models'
+    year: '2021'
+  q7pfeB8AAAAJ:_FxGoFyzp5QC:
+    citations: 3
+    title: 'Graph-Relational Federated Learning: Enhanced Personalization and Robustness'
+    year: '2025'
+  q7pfeB8AAAAJ:eQOLeE2rZwMC:
+    citations: 295
+    title: Generative causal explanations for graph neural networks
+    year: '2021'
+  q7pfeB8AAAAJ:hqOjcs7Dif8C:
+    citations: 8
+    title: 'Be careful with pypi packages: You may unconsciously spread backdoor model weights'
+    year: '2023'
+  q7pfeB8AAAAJ:ufrVoPGSRksC:
+    citations: 2
+    title: Device Placement Optimization with Deep Reinforcement Learning
+    year: '2023'
+  q7pfeB8AAAAJ:zYLM7Y9cAGgC:
+    citations: 2
+    title: A novel multi-controller flow schedule scheme for fat-tree architecture
+    year: '2016'
