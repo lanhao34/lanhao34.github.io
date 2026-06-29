@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-29'
 papers:
   q7pfeB8AAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -26,11 +26,11 @@ papers:
     title: 'Thor: a scalable hybrid switching architecture for data centers'
     year: '2018'
   q7pfeB8AAAAJ:UebtZRa9Y70C:
-    citations: 4
+    citations: 5
     title: Debiasing graph representation learning based on information bottleneck
     year: '2024'
   q7pfeB8AAAAJ:W7OEmFMy1HYC:
-    citations: 114
+    citations: 115
     title: 'Orphicx: A causality-inspired latent variable model for interpreting graph neural networks'
     year: '2022'
   q7pfeB8AAAAJ:WF5omc3nYNoC:
@@ -50,7 +50,7 @@ papers:
     title: 'Graph-Relational Federated Learning: Enhanced Personalization and Robustness'
     year: '2025'
   q7pfeB8AAAAJ:eQOLeE2rZwMC:
-    citations: 298
+    citations: 299
     title: Generative causal explanations for graph neural networks
     year: '2021'
   q7pfeB8AAAAJ:hqOjcs7Dif8C:
