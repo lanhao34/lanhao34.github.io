@@ -1,10 +1,18 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-24'
 papers:
   q7pfeB8AAAAJ:0EnyYjriUFMC:
     citations: 1
     title: 'Cost-efficient Archive Cloud Storage with Tape: Design and Deployment'
     year: '2026'
+  q7pfeB8AAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation
+    year: '2026'
+  q7pfeB8AAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Interpretable and Efficient PDE Solving Via Multitask Symbolic Regression
+    year: '2025'
   q7pfeB8AAAAJ:IjCSPb-OGe4C:
     citations: 2
     title: 'Rss: a relay-based schedule scheme for optical data center network'
@@ -13,6 +21,10 @@ papers:
     citations: 0
     title: Pipeline Parallelism Optimization with Deep Reinforcement Learning
     year: Unknown Year
+  q7pfeB8AAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: 'SOtrain: Efficient LLM Fine-Tuning on a Single-GPU Commodity Server via User-Space I/O and Scheduling Optimizations'
+    year: '2026'
   q7pfeB8AAAAJ:Se3iqnhoufwC:
     citations: 6
     title: 'Graph privacy funnel: A variational approach for privacy-preserving representation learning on graphs'
@@ -26,11 +38,11 @@ papers:
     title: 'Thor: a scalable hybrid switching architecture for data centers'
     year: '2018'
   q7pfeB8AAAAJ:UebtZRa9Y70C:
-    citations: 6
+    citations: 7
     title: Debiasing graph representation learning based on information bottleneck
     year: '2024'
   q7pfeB8AAAAJ:W7OEmFMy1HYC:
-    citations: 115
+    citations: 120
     title: 'Orphicx: A causality-inspired latent variable model for interpreting graph neural networks'
     year: '2022'
   q7pfeB8AAAAJ:WF5omc3nYNoC:
@@ -46,19 +58,19 @@ papers:
     title: 'Eagle: Expedited device placement with automatic grouping for large models'
     year: '2021'
   q7pfeB8AAAAJ:_FxGoFyzp5QC:
-    citations: 3
-    title: 'Graph-Relational Federated Learning: Enhanced Personalization and Robustness'
+    citations: 2
+    title: 'Graph-relational federated learning: Enhanced personalization and robustness'
     year: '2025'
   q7pfeB8AAAAJ:eQOLeE2rZwMC:
-    citations: 298
+    citations: 305
     title: Generative causal explanations for graph neural networks
     year: '2021'
   q7pfeB8AAAAJ:hqOjcs7Dif8C:
-    citations: 8
+    citations: 9
     title: 'Be careful with pypi packages: You may unconsciously spread backdoor model weights'
     year: '2023'
   q7pfeB8AAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 0
     title: Device Placement Optimization with Deep Reinforcement Learning
     year: '2023'
   q7pfeB8AAAAJ:zYLM7Y9cAGgC:
