@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   q7pfeB8AAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -62,7 +62,7 @@ papers:
     title: 'Graph-relational federated learning: Enhanced personalization and robustness'
     year: '2025'
   q7pfeB8AAAAJ:eQOLeE2rZwMC:
-    citations: 305
+    citations: 306
     title: Generative causal explanations for graph neural networks
     year: '2021'
   q7pfeB8AAAAJ:hqOjcs7Dif8C:
